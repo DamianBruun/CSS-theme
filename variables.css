@@ -1,0 +1,25 @@
+body {
+  background-color: #302A38;
+  color: #FFFFFF;
+}
+
+h1, h2, h3 {
+  color: #19C7A9;
+}
+
+h1, h2, h3, p {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #19C7A9;
+}
+
+a:hover {
+  color: #55505C;
+}
+
+button {
+  background-color: #19C7A9;
+  color: #FFFFFF;
+}
